@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237199749213",
+    "project_id": "tecnologias-moviles-eed73",
+    "storage_bucket": "tecnologias-moviles-eed73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237199749213:android:b15875d25eeaab37715db4",
+        "android_client_info": {
+          "package_name": "com.example.anotame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237199749213-qldapn7arh00f0l6srdu4allf30cdqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUdCGsdTuGs0eJgw0JBSODeGopQ8mNKas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237199749213-qldapn7arh00f0l6srdu4allf30cdqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
